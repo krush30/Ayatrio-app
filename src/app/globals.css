@@ -25,3 +25,24 @@ body {
     text-wrap: balance;
   }
 }
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.scroll-carousel {
+  display: flex;
+  overflow-x: hidden; 
+  animation: scroll 20s linear infinite; 
+  width: max-content; 
+}
+
+.scroll-carousel > div {
+  flex-shrink: 0; 
+  margin-right: 1.5rem;
+}

@@ -7,11 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        times: ['"Times New Roman"', 'Times', 'serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
     },
   },
-  plugins: [],
+  plugins: [require('tailwind-scrollbar-hide')],
 };
