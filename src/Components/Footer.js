@@ -72,8 +72,9 @@ export default function Footer() {
                                     </h3>
                                     <div className="mt-2">
                                         <p className="text-sm text-black text-[1.39em]">
-                                            We'd love to hear from you and we'll respond as soon as possible.
+                                            We&apos;d love to hear from you and we&apos;ll respond as soon as possible.
                                         </p>
+
                                     </div>
                                 </div>
                             </div>

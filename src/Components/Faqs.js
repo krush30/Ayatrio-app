@@ -36,9 +36,12 @@ const Faqs = () => {
                     <div className=" text-[1.1em] text-black font-bold">What will be the career trajectory after Stoa? Can I switch my current role?
                     </div>
                     {!showSecondImage && (
-                        <><div className="text-black text-[1.1em]  border-b-2  border-[#7F7F7F] pb-2 pt-4">
-                            Stoa enables individuals to develop diverse business skills and build a proof of their competence, making it easier to make career transitions or pivot roles. However, success depends on an individual's hard work and dedication to their goals, supported by Stoa's career assistance resources. Our fellows have switched roles, functions and industries. They have received average salaries of around 15-16LPA and some have received salaries in the range of 40LPA as well.
-                        </div></>
+                        <>
+                            <div className="text-black text-[1.1em] border-b-2 border-[#7F7F7F] pb-2 pt-4">
+                                Stoa enables individuals to develop diverse business skills and build a proof of their competence, making it easier to make career transitions or pivot roles. However, success depends on an individual&apos;s hard work and dedication to their goals, supported by Stoa&apos;s career assistance resources. Our fellows have switched roles, functions, and industries. They have received average salaries of around 15-16 LPA and some have received salaries in the range of 40 LPA as well.
+                            </div>
+                        </>
+
                     )}
 
 
@@ -68,9 +71,11 @@ const Faqs = () => {
                     </div>
                     {!showSecondImage2 && (
                         <>
-                            <div className="text-black text-[1.1em]  border-b-2  border-[#7F7F7F] pb-2 pt-4">
-                                Stoa's week-long 'skill sprints' enable individuals to develop diverse business skills and build a proof of their competence, making it easier to make career transitions or pivot roles. However, success depends on an individual's hard work and dedication to their goals, supported by Stoa's career assistance resources.
-                            </div></>
+                            <div className="text-black text-[1.1em] border-b-2 border-[#7F7F7F] pb-2 pt-4">
+                                Stoa&apos;s week-long &apos;skill sprints&apos; enable individuals to develop diverse business skills and build a proof of their competence, making it easier to make career transitions or pivot roles. However, success depends on an individual&apos;s hard work and dedication to their goals, supported by Stoa&apos;s career assistance resources.
+                            </div>
+                        </>
+
                     )}
 
 
@@ -99,9 +104,12 @@ const Faqs = () => {
                     <div className=" text-[1.1em] text-black font-bold">What happens if my company doesnt approve Stoa as a recognised program?
                     </div>
                     {!showSecondImage3 && (
-                        <><div className="text-black text-[1.1em]  border-b-2  border-[#7F7F7F] pb-2 pt-4">
-                            Stoa provides a practical learning approach that helps individuals gain real-world experience and build a proof of their skills and competence, making it easier to showcase their expertise to potential employers. With Stoa's career assistance resources, individuals can create an impressive portfolio and connect with potential employers and industry professionals, regardless of their company's recognition of the program.
-                        </div></>
+                        <>
+                            <div className="text-black text-[1.1em] border-b-2 border-[#7F7F7F] pb-2 pt-4">
+                                Stoa provides a practical learning approach that helps individuals gain real-world experience and build a proof of their skills and competence, making it easier to showcase their expertise to potential employers. With Stoa&apos;s career assistance resources, individuals can create an impressive portfolio and connect with potential employers and industry professionals, regardless of their company&apos;s recognition of the program.
+                            </div>
+                        </>
+
                     )}
 
 
@@ -130,9 +138,12 @@ const Faqs = () => {
                     <div className=" text-[1.1em] text-black font-bold">What is the Stoa Charter? When does it take place?
                     </div>
                     {!showSecondImage4 && (
-                        <><div className="text-black text-[1.1em]  border-b-2  border-[#7F7F7F] pb-2 pt-4">
-                            The Stoa Charter is a certification of competence. The Stoa Charter is awarded to those who demonstrate mastery in applying frameworks to solve substantial business problems. It is the highest level of academic honour awarded within the Stoa Programs, granted only to a few outstanding candidates within any cohort. The Charter is awarded upon successfully defending proposed solutions to a business problem, before a jury comprising of executives at leading firms. It is conducted at the end of the program.                    </div>
+                        <>
+                            <div className="text-black text-[1.1em] border-b-2 border-[#7F7F7F] pb-2 pt-4">
+                                The Stoa Charter is a certification of competence. The Stoa Charter is awarded to those who demonstrate mastery in applying frameworks to solve substantial business problems. It is the highest level of academic honour awarded within the Stoa Programs, granted only to a few outstanding candidates within any cohort. The Charter is awarded upon successfully defending proposed solutions to a business problem, before a jury comprising of executives at leading firms. It&apos;s conducted at the end of the program.
+                            </div>
                         </>
+
                     )}
 
                 </div>
@@ -161,10 +172,11 @@ const Faqs = () => {
                     </div>
                     {!showSecondImage5 && (
                         <>
-                            <div className="text-black text-[1.1em]  border-b-2  border-[#7F7F7F] pb-2 pt-4">
-                                We currently do not offer an income share agreement or a no-cost EMI option. However, we have partnered with reputed loan companies that provide education loans with EMIs starting from three months to forty-two months.                    </div>
-
+                            <div className="text-black text-[1.1em] border-b-2 border-[#7F7F7F] pb-2 pt-4">
+                                We currently do not offer an income share agreement or a no-cost EMI option. However, we have partnered with reputed loan companies that provide education loans with EMIs starting from three months to forty-two months.
+                            </div>
                         </>
+
                     )}
 
                 </div>
